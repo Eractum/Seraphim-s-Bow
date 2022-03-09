@@ -1,0 +1,1 @@
+If you're runnung the script for the first time, load dropshadow.atn into your photoshop action palette.
